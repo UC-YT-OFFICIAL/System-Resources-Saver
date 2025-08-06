@@ -1,0 +1,6 @@
+id=lowprioritylock
+name=Low Priority Lock (v3.4)
+version=3.4
+versionCode=34
+author=ChatGPT
+description=Sets nice value to 19 for selected apps every 2 minutes. Log mode is OFF by default.
