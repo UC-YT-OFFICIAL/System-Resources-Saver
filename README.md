@@ -62,7 +62,7 @@ The module runs `renice` on selected app PIDs based on your list, making them le
 
 ## 📥 Download
 
-[Click here to download latest ZIP](https://github.com/UC-YT-OFFICIAL/System-Resources-Saver/releases/latest/download/LowPriorityLock-v3.4.zip)
+[Click here to download latest ZIP](https://t.me/+dcRSRcksU6VmMzhl)
 
 ---
 
